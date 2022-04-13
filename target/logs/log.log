@@ -1,0 +1,9 @@
+2022-04-13 08:49:49 INFO  DriverFactory:31 - URL сервера: https://www.citilink.ru/
+2022-04-13 08:49:49 INFO  DriverFactory:59 - Тесты запускаются на ОС Windows.
+2022-04-13 08:50:02 INFO  DriverFactory:53 - CHROME браузер открывается.
+2022-04-13 08:50:24 INFO  CitilinkMainPage:87 - Проверка загрузки страницы авторизации.
+2022-04-13 08:50:25 INFO  CitilinkMainPage:41 - Кликаем кнопку - 'Вход'
+2022-04-13 08:50:28 INFO  CitilinkMainPage:47 - Вводим логин
+2022-04-13 08:50:31 INFO  CitilinkMainPage:55 - Вводим пароль
+2022-04-13 08:50:34 INFO  CitilinkMainPage:63 - Кликаем кнопку - 'Войти'
+2022-04-13 08:52:24 ERROR Driver:77 - Элемент использующий локатор './/*[@class='HeaderUserName__name']' не найден!
